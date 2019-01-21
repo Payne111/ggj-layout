@@ -1,6 +1,6 @@
 {
   "name": "ggj-layout",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "pjf <panjf@gegejia.com>",
   "description": "格格家管理后台基于antd的布局组件",
   "main": "lib/index.js",
